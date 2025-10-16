@@ -8,14 +8,6 @@ I dettagli sono contenuti nel PDF "Overview of the Netflix Prize Challenge".
 ## Testare la pipeline
 
 
-N.B. In ogni caso, creare un ambiente virtuale con conda/venv ed installare requirements.txt.
-
----
-
-Il progetto includerà i parametri per ognuno degli 8 modelli facenti parte degli ensemble, insieme a tutti i file necessari per poter provare immediatamente l'ensemble finale, eseguendo semplicemente "ensemble/ensemble.py"
-
----
-
 Per riprodurre fedelmente l'intera pipeline come descritto nel pdf della relazione, eseguire i seguenti passi:
 
 * Installare le librerie nel requirements.txt
